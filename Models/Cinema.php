@@ -9,7 +9,7 @@
         public function __construct($name = '', $capacity = ''){
 
             $this->setName($name);
-            
+            $this->setCapacity($capacity);
         }
 
         public function setName($name){$this->name = $name;}
