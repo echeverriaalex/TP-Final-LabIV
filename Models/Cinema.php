@@ -17,6 +17,5 @@
 
         public function setCapacity($capacity){$this->capacity = $capacity;}
         public function getCapacity(){return $this->capacity;}
-
     }
 ?>
